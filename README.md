@@ -1,4 +1,4 @@
-# GoLang-REST-API-Crud-Basic
+# GoLang-RESTful-API-Basic
 
 A RESTful API example with Go.
 
