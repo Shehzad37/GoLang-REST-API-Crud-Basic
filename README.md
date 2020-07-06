@@ -1,4 +1,4 @@
-# GoLang-RESTful-API-Basic
+# Golang-RESTful-API-Basic
 
 A RESTful API example with Go.
 
